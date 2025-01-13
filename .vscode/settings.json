@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "C:/App_Dev/ecommerce_furniture_app_ui/linux"
+}
